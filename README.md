@@ -1,2 +1,2 @@
 # Hackerrank
-Initial solutions vs  best practices
+Solutions & Insights to coding challenges
