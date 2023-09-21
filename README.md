@@ -1,2 +1,2 @@
 # Hackerrank
-Solutions & Insights to coding challenges
+Solutions to Hackerrank coding challenges
